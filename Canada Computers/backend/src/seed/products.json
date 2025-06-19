@@ -1,0 +1,110 @@
+[
+  {
+    "_id": {"$oid": "65123456789012345678902a"},
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "14-inch business laptop with Intel Core i7, 16GB RAM, 512GB SSD",
+    "price": 1799.99,
+    "category_id": {"$oid": "65123456789012345678901a"},
+    "image_url": "https://example.com/images/thinkpad-x1.jpg",
+    "stock": 25
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902b"},
+    "name": "ASUS ROG Gaming Desktop",
+    "description": "Gaming PC with RTX 4080, Ryzen 9, 32GB RAM, 2TB SSD",
+    "price": 2499.99,
+    "category_id": {"$oid": "65123456789012345678901b"},
+    "image_url": "https://example.com/images/rog-desktop.jpg",
+    "stock": 10
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902c"},
+    "name": "NVIDIA GeForce RTX 4070",
+    "description": "12GB GDDR6X Graphics Card",
+    "price": 599.99,
+    "category_id": {"$oid": "65123456789012345678901c"},
+    "image_url": "https://example.com/images/rtx-4070.jpg",
+    "stock": 15
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902d"},
+    "name": "LG 27GP950-B 27\" 4K Gaming Monitor",
+    "description": "27-inch 4K UHD (3840 x 2160) Nano IPS Display",
+    "price": 799.99,
+    "category_id": {"$oid": "65123456789012345678901d"},
+    "image_url": "https://example.com/images/lg-monitor.jpg",
+    "stock": 20
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902e"},
+    "name": "Razer BlackWidow V3 Pro",
+    "description": "Wireless Mechanical Gaming Keyboard with Green Switches",
+    "price": 229.99,
+    "category_id": {"$oid": "65123456789012345678901e"},
+    "image_url": "https://example.com/images/razer-keyboard.jpg",
+    "stock": 30
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902f"},
+    "name": "ASUS ROG Strix Gaming Laptop",
+    "description": "15.6-inch Gaming Laptop with RTX 4060, 16GB RAM, 1TB SSD",
+    "price": 1499.99,
+    "category_id": {"$oid": "65123456789012345678901a"},
+    "image_url": "https://example.com/images/rog-laptop.jpg",
+    "stock": 12
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902g"},
+    "name": "Intel Core i9-13900K",
+    "description": "24-Core (8P+16E) Desktop Processor",
+    "price": 569.99,
+    "category_id": {"$oid": "65123456789012345678901c"},
+    "image_url": "https://example.com/images/intel-i9.jpg",
+    "stock": 8
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902h"},
+    "name": "ASUS ROG Swift PG32UQ",
+    "description": "32-inch 4K HDR Gaming Monitor",
+    "price": 999.99,
+    "category_id": {"$oid": "65123456789012345678901d"},
+    "image_url": "https://example.com/images/asus-monitor.jpg",
+    "stock": 15
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902i"},
+    "name": "TP-Link Archer AX6000",
+    "description": "WiFi 6 Router, 8-Stream Smart WiFi Router",
+    "price": 299.99,
+    "category_id": {"$oid": "65123456789012345678901f"},
+    "image_url": "https://example.com/images/router.jpg",
+    "stock": 25
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902j"},
+    "name": "Logitech G Pro X Superlight",
+    "description": "Wireless Gaming Mouse with HERO 25K sensor",
+    "price": 159.99,
+    "category_id": {"$oid": "65123456789012345678901e"},
+    "image_url": "https://example.com/images/logitech-mouse.jpg",
+    "stock": 40
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902k"},
+    "name": "Samsung 980 PRO 2TB",
+    "description": "PCIe 4.0 NVMe SSD, up to 7,000 MB/s",
+    "price": 219.99,
+    "category_id": {"$oid": "65123456789012345678901c"},
+    "image_url": "https://example.com/images/samsung-ssd.jpg",
+    "stock": 35
+  },
+  {
+    "_id": {"$oid": "65123456789012345678902l"},
+    "name": "Ubiquiti UniFi 6 Lite",
+    "description": "Dual-Band WiFi 6 Access Point",
+    "price": 149.99,
+    "category_id": {"$oid": "65123456789012345678901f"},
+    "image_url": "https://example.com/images/unifi-ap.jpg",
+    "stock": 20
+  }
+]

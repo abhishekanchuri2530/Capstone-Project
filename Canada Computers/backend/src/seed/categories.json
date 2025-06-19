@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {"$oid": "65123456789012345678901a"},
+    "name": "Laptops",
+    "description": "Portable computers for work and gaming"
+  },
+  {
+    "_id": {"$oid": "65123456789012345678901b"},
+    "name": "Desktop PCs",
+    "description": "High-performance desktop computers"
+  },
+  {
+    "_id": {"$oid": "65123456789012345678901c"},
+    "name": "Computer Parts",
+    "description": "Individual computer components and hardware"
+  },
+  {
+    "_id": {"$oid": "65123456789012345678901d"},
+    "name": "Monitors",
+    "description": "Computer displays and screens"
+  },
+  {
+    "_id": {"$oid": "65123456789012345678901e"},
+    "name": "Gaming Accessories",
+    "description": "Gaming peripherals and accessories"
+  },
+  {
+    "_id": {"$oid": "65123456789012345678901f"},
+    "name": "Networking",
+    "description": "Networking equipment and accessories"
+  }
+]
